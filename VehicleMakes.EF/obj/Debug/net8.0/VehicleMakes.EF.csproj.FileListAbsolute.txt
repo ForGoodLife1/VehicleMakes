@@ -1,0 +1,17 @@
+C:\Users\fares\source\repos\VehicleMakes\VehicleMakes.EF\bin\Debug\net8.0\VehicleMakes.EF.deps.json
+C:\Users\fares\source\repos\VehicleMakes\VehicleMakes.EF\bin\Debug\net8.0\VehicleMakes.EF.runtimeconfig.json
+C:\Users\fares\source\repos\VehicleMakes\VehicleMakes.EF\bin\Debug\net8.0\VehicleMakes.EF.dll
+C:\Users\fares\source\repos\VehicleMakes\VehicleMakes.EF\bin\Debug\net8.0\VehicleMakes.EF.pdb
+C:\Users\fares\source\repos\VehicleMakes\VehicleMakes.EF\obj\Debug\net8.0\VehicleMakes.EF.csproj.AssemblyReference.cache
+C:\Users\fares\source\repos\VehicleMakes\VehicleMakes.EF\obj\Debug\net8.0\VehicleMakes.EF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fares\source\repos\VehicleMakes\VehicleMakes.EF\obj\Debug\net8.0\VehicleMakes.EF.AssemblyInfoInputs.cache
+C:\Users\fares\source\repos\VehicleMakes\VehicleMakes.EF\obj\Debug\net8.0\VehicleMakes.EF.AssemblyInfo.cs
+C:\Users\fares\source\repos\VehicleMakes\VehicleMakes.EF\obj\Debug\net8.0\VehicleMakes.EF.csproj.CoreCompileInputs.cache
+C:\Users\fares\source\repos\VehicleMakes\VehicleMakes.EF\obj\Debug\net8.0\VehicleMakes.EF.dll
+C:\Users\fares\source\repos\VehicleMakes\VehicleMakes.EF\obj\Debug\net8.0\refint\VehicleMakes.EF.dll
+C:\Users\fares\source\repos\VehicleMakes\VehicleMakes.EF\obj\Debug\net8.0\VehicleMakes.EF.pdb
+C:\Users\fares\source\repos\VehicleMakes\VehicleMakes.EF\obj\Debug\net8.0\VehicleMakes.EF.genruntimeconfig.cache
+C:\Users\fares\source\repos\VehicleMakes\VehicleMakes.EF\obj\Debug\net8.0\ref\VehicleMakes.EF.dll
+C:\Users\fares\source\repos\VehicleMakes\VehicleMakes.EF\bin\Debug\net8.0\VehicleMakes.Model.dll
+C:\Users\fares\source\repos\VehicleMakes\VehicleMakes.EF\bin\Debug\net8.0\VehicleMakes.Model.pdb
+C:\Users\fares\source\repos\VehicleMakes\VehicleMakes.EF\obj\Debug\net8.0\VehicleM.C21E2A89.Up2Date

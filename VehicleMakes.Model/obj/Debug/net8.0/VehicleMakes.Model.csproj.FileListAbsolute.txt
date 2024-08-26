@@ -1,0 +1,11 @@
+C:\Users\fares\source\repos\VehicleMakes\VehicleMakes.Model\bin\Debug\net8.0\VehicleMakes.Model.deps.json
+C:\Users\fares\source\repos\VehicleMakes\VehicleMakes.Model\bin\Debug\net8.0\VehicleMakes.Model.dll
+C:\Users\fares\source\repos\VehicleMakes\VehicleMakes.Model\bin\Debug\net8.0\VehicleMakes.Model.pdb
+C:\Users\fares\source\repos\VehicleMakes\VehicleMakes.Model\obj\Debug\net8.0\VehicleMakes.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fares\source\repos\VehicleMakes\VehicleMakes.Model\obj\Debug\net8.0\VehicleMakes.Model.AssemblyInfoInputs.cache
+C:\Users\fares\source\repos\VehicleMakes\VehicleMakes.Model\obj\Debug\net8.0\VehicleMakes.Model.AssemblyInfo.cs
+C:\Users\fares\source\repos\VehicleMakes\VehicleMakes.Model\obj\Debug\net8.0\VehicleMakes.Model.csproj.CoreCompileInputs.cache
+C:\Users\fares\source\repos\VehicleMakes\VehicleMakes.Model\obj\Debug\net8.0\VehicleMakes.Model.dll
+C:\Users\fares\source\repos\VehicleMakes\VehicleMakes.Model\obj\Debug\net8.0\refint\VehicleMakes.Model.dll
+C:\Users\fares\source\repos\VehicleMakes\VehicleMakes.Model\obj\Debug\net8.0\VehicleMakes.Model.pdb
+C:\Users\fares\source\repos\VehicleMakes\VehicleMakes.Model\obj\Debug\net8.0\ref\VehicleMakes.Model.dll
